@@ -8,3 +8,6 @@ with one of your friends where the game ends when ither one person win or if the
 * validation
 * decelear results
 * keep score
+
+## refrences
+[YouTube Vidio](https://www.youtube.com/watch?v=4F2m91eKmts&t=16015s)
