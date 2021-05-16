@@ -11,5 +11,4 @@ with one of your friends where the game ends when ither one person win or if the
 
 ## refrences
 [YouTube Vidio](https://www.youtube.com/watch?v=4F2m91eKmts&t=16015s)
-![alt text](![image](https://user-images.githubusercontent.com/66356303/118399464-e0e06600-b67a-11eb-8fe7-46546e00d5a0.png)
-)
+
